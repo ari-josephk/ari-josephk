@@ -49,3 +49,14 @@ The optimized sparse parallel implementation achieved up to 6x speedup on multic
 For setup and usage, see the [project README](Sparse%20Parallel%20PyTorch%20on%20Multicore/readme.md).
 
 
+## [Shed Tracker](https://github.com/ari-josephk/Shed-Tracker)
+A web tool for tracking the progress of New York City's "Get Sheds Down" initiative, which aims to reduce the number of sidewalk construction sheds. The app fetches daily data from the NYC Department of Buildings, visualizes trends in shed permits, and provides borough-level statistics and reductions over time. Built with Node.js, Express, Python, and JavaScript (Chart.js), it features automated data compilation and a public dashboard.
+- [Live Website](https://ari-josephk.github.io/Shed-Tracker/)
+- [Source Code](https://github.com/ari-josephk/Shed-Tracker)
+
+## [MidWays](https://github.com/ari-josephk/Midways)
+A collaborative web application that helps groups find fair meeting points (e.g., restaurants, parks) equidistant from all members, considering different travel modes. Users can enter multiple starting locations, apply filters, and share maps via unique links. Features include account creation, saving favorite locations/groups, and real-time collaboration. Built with React, Node.js, Express, MongoDB, and Google Maps API.
+- [Live Demo](https://midways-cloud-run-4tzuhyxh3a-uc.a.run.app/)
+- [Source Code](https://github.com/ari-josephk/Midways)
+
+
