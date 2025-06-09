@@ -56,6 +56,10 @@ A web tool for tracking the progress of New York City's "Get Sheds Down" initiat
 
 ## [MidWays](https://github.com/ari-josephk/Midways)
 A collaborative web application that helps groups find fair meeting points (e.g., restaurants, parks) equidistant from all members, considering different travel modes. Users can enter multiple starting locations, apply filters, and share maps via unique links. Features include account creation, saving favorite locations/groups, and real-time collaboration. Built with React, Node.js, Express, MongoDB, and Google Maps API.
+
+Utilizes a iterative time-based centroid algorithm that I made with some simple linear argebra. It keeps updating the center point until iterations stop moving it (meaning we reached optimal point), or until we hit a max number of iterations. 
+
+
 - [Live Demo](https://midways-cloud-run-4tzuhyxh3a-uc.a.run.app/)
 - [Source Code](https://github.com/ari-josephk/Midways)
 
