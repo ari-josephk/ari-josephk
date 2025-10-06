@@ -1,7 +1,7 @@
 <table>
     <tr>
         <td>
-            <img src="https://th.bing.com/th/id/OIP.XrokM5iZL6GfjzMfXaJFIQHaHa?rs=1&pid=ImgDetMain" alt="Ari Joseph Khaytser Profile Photo" width="100" style="border-radius:50%;">
+            <img src="https://pasteboard.co/xWws3qF5HKq0.png" alt="Ari Joseph Khaytser Profile Photo" width="100" style="border-radius:50%;">
         </td>
         <td>
             <h1 style="margin-left: 20px;">Ari Joseph Khaytser</h1>
